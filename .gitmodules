@@ -1,0 +1,3 @@
+[submodule "cpp/lib/xpression"]
+	path = cpp/lib/xpression
+	url = https://github.com/VincentPT/xpression.git
